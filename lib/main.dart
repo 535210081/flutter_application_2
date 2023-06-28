@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter_application_2/widgettree.dart';
 import 'package:flutter_application_2/Reg/log/MainPage.dart';
 
 void main() {

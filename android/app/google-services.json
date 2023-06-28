@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494927194861",
+    "project_id": "m-banking-project-c1a21",
+    "storage_bucket": "m-banking-project-c1a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494927194861:android:4e24c944d33a1d90b8fae4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494927194861-ae10mgku70pul8detghsbeba76a4fugg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67ScDx2HMbXcJeYKewDcw2HnA-yA2uWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494927194861-ae10mgku70pul8detghsbeba76a4fugg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
