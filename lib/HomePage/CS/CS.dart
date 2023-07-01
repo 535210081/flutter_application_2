@@ -89,7 +89,7 @@ class _CSState extends State<CS> {
                           Container(
                             padding: EdgeInsets.all(16),
                             child: Text(
-                              'QNA',
+                              'FAQs',
                               style: TextStyle(
                                 fontSize: 25,
                                 fontWeight: FontWeight.bold,
